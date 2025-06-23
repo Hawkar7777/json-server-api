@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "hawkar",
+      "email": "hawkar@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "Hawraman",
+      "email": "hawraman@example.com",
+      "password": "1234"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "11",
+      "userId": 2,
+      "title": "Submit expense report",
+      "description": "Upload receipts and fill monthly form",
+      "status": "todo",
+      "priority": "high",
+      "dueDate": "2025-06-21",
+      "createdAt": "2025-06-18T14:00:00Z",
+      "deleted": false
+    },
+    {
+      "id": "12",
+      "userId": 2,
+      "title": "Team meeting",
+      "description": "Discuss Q2 project goals",
+      "status": "in progress",
+      "priority": "medium",
+      "dueDate": "2025-06-20",
+      "createdAt": "2025-06-18T09:30:00Z",
+      "deleted": false
+    },
+    {
+      "id": "13",
+      "userId": 2,
+      "title": "Organize desk",
+      "description": "Clean workspace and arrange files",
+      "status": "completed",
+      "priority": "low",
+      "dueDate": "2025-06-18",
+      "createdAt": "2025-06-18T08:20:00Z",
+      "deleted": false
+    },
+    {
+      "id": "3548",
+      "userId": "1",
+      "title": "to do",
+      "description": "to do ",
+      "status": "todo",
+      "priority": "low",
+      "dueDate": "2025-06-26",
+      "createdAt": "2025-06-23T14:49:39.447Z",
+      "deleted": false
+    },
+    {
+      "id": "1793",
+      "userId": "1",
+      "title": "new to do ",
+      "description": "new to do",
+      "status": "todo",
+      "priority": "high",
+      "dueDate": "2025-06-10",
+      "createdAt": "2025-06-23T14:50:07.784Z",
+      "deleted": false
+    },
+    {
+      "id": "5e49",
+      "userId": "1",
+      "title": "InProgress",
+      "description": "InProgress",
+      "status": "in progress",
+      "priority": "medium",
+      "dueDate": "2025-06-18",
+      "createdAt": "2025-06-23T14:50:31.202Z",
+      "deleted": false
+    },
+    {
+      "id": "431a",
+      "userId": "1",
+      "title": "completed",
+      "description": "completed",
+      "status": "completed",
+      "priority": "low",
+      "dueDate": "2025-06-11",
+      "createdAt": "2025-06-23T14:50:53.212Z",
+      "deleted": false
+    },
+    {
+      "id": "1365",
+      "userId": "1",
+      "title": "as",
+      "description": "as",
+      "status": "todo",
+      "priority": "low",
+      "dueDate": "2025-06-16",
+      "createdAt": "2025-06-23T14:51:26.937Z",
+      "deleted": false
+    },
+    {
+      "id": "effd",
+      "userId": "1",
+      "title": "asas",
+      "description": "asas",
+      "status": "todo",
+      "priority": "low",
+      "dueDate": "2025-06-24",
+      "createdAt": "2025-06-23T14:51:36.905Z",
+      "deleted": false
+    },
+    {
+      "id": "9a87",
+      "userId": "1",
+      "title": "asas",
+      "description": "asas",
+      "status": "todo",
+      "priority": "low",
+      "dueDate": "2025-06-23",
+      "createdAt": "2025-06-23T14:51:41.559Z",
+      "deleted": false
+    },
+    {
+      "id": "7ca0",
+      "userId": "1",
+      "title": "asas",
+      "description": "asas",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2025-06-10",
+      "createdAt": "2025-06-23T15:50:43.089Z",
+      "deleted": false
+    }
+  ]
+}
